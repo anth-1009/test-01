@@ -9,3 +9,5 @@ git rm
 git status
 
 git diff
+
+change github username

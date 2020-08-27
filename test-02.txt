@@ -1,6 +1,0 @@
-Gitの練習をします！
-最初の修正です！
-
-git add
-git commit
-
